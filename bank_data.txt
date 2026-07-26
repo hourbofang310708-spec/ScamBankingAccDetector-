@@ -1,0 +1,16 @@
+spam	URGENT: Your ABA account ending in 4921 has been restricted due to suspicious activity. Verify immediately at http://aba-auth-update-secure.com/login
+spam	Notice from DHL: Your package is held at our local depot. A customs fee of $2.99 is required. Pay now: www.dhl-cambodia-delivery-fee.xyz
+spam	Wing Bank Alert: A transfer of $500 was initiated from your account. If you did not make this transfer, cancel it here: http://wing-fraud-alert.net
+spam	FINAL NOTICE: Your crypto wallet is scheduled for deletion due to inactivity. Click to secure your funds now: https://crypto-secure-wallet-recovery.com
+spam	ACLEDA Bank: Your account has been temporarily locked. Please update your security credentials to restore access: www.acleda-secure-update.com
+spam	Congratulations! You've been selected for a remote data entry job paying $500/week. Click here to apply and submit your registration fee: http://bit.ly/fake-job-offer
+spam	SECURITY ALERT: We detected a login to your mobile banking app from a new device. If this wasn't you, reset your password at http://bank-security-reset.xyz
+spam	Your Netflix subscription has expired. Update your billing information immediately to avoid service interruption: www.netflix-billing-update-now.com
+ham	ABA PAY: You transferred 3.50 USD to Brown Coffee. Ref: 893412. Available balance: 42.50 USD.
+ham	Your ACLEDA mobile verification code is 849321. Do not share this code with anyone. It expires in 5 minutes.
+ham	Hey, I'm waking up at 5:00 AM tomorrow to go over the multivariable calculus notes. Let me know if you want to join before the lecture.
+ham	The project lead needs the master roadmap for the BDME 2026 expo finalized by tonight. I'll check the formatting if you write the main sections.
+ham	Just finished training. Are we still meeting up later to work on the Python assignment?
+ham	Wing: You have received 15.00 USD from a friend. Your new balance is 115.00 USD.
+ham	Don't forget we have the Young Leader Program meeting this weekend. Bring your notes on the community project structure.
+ham	Your Grab ride is arriving in 3 minutes. The license plate is 2A-8492.
