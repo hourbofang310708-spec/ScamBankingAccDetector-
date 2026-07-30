@@ -27,3 +27,4 @@ def _calculate_url_risk(self, text):
     return risk_score
     # tomorror ready for big data
     
+ 
